@@ -1,0 +1,15 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-ideaboost-staging-35416-authRole",
+      "UnauthRoleArn": "arn:aws:iam::733590450142:role/amplify-ideaboost-staging-35416-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::733590450142:role/amplify-ideaboost-staging-35416-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-ideaboost-staging-35416-deployment",
+      "UnauthRoleName": "amplify-ideaboost-staging-35416-unauthRole",
+      "StackName": "amplify-ideaboost-staging-35416",
+      "StackId": "arn:aws:cloudformation:us-east-1:733590450142:stack/amplify-ideaboost-staging-35416/40ef1c20-ac1b-11ed-a443-0e324891a673",
+      "AmplifyAppId": "d1mlywky69zme1"
+    }
+  }
+}
