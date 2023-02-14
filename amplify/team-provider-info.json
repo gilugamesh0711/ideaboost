@@ -10,6 +10,11 @@
       "StackName": "amplify-ideaboost-staging-35416",
       "StackId": "arn:aws:cloudformation:us-east-1:733590450142:stack/amplify-ideaboost-staging-35416/40ef1c20-ac1b-11ed-a443-0e324891a673",
       "AmplifyAppId": "d1mlywky69zme1"
+    },
+    "categories": {
+      "auth": {
+        "ideaboostf0fc6c2b": {}
+      }
     }
   }
 }
